@@ -291,10 +291,9 @@ VALUES
 
 ## RESTfull сервіс для управління даними
 
-### Оснонвий файл для взаємодії з базою даних database.js
+### Основний файл для взаємодії з базою даних database.js
 
 ```js
-
 import mysql from "mysql2";
 import dotenv from "dotenv";
 dotenv.config();
@@ -463,13 +462,11 @@ export async function deleteTask(id) {
   );
   return result;
 }
-
 ```
 
-### RESTful service app.js
+### RESTful сервіс app.js
 
 ```js
-
 import express from "express";
 
 import {
@@ -599,5 +596,4 @@ app.use((err, req, res, next) => {
 app.listen(8080, () => {
   console.log("Server is running on port 8080");
 });
-
 ```
