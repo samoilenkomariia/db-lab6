@@ -40,7 +40,7 @@
 
 **Get /projects**
 
-![get projects](project_getall.png)
+![get projects](projects_getall.png)
 
 **Post**
 
