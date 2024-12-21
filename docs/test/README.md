@@ -14,76 +14,76 @@
 
 **Get /users**
 
-![get users](user_getall)
+![get users](user_getall.png)
 
 **Post**
 
-![post user](user_post)
+![post user](user_post.png)
 
 **Get /users/id**
 
-![get user](user_get)
+![get user](user_get.png)
 
 **Put**
 
-![put user](user_put)
+![put user](user_put.png)
 
-![put user](user_put2)
+![put user](user_put2.png)
 
 **Delete**
 
-![delete user](user_delete)
+![delete user](user_delete.png)
 
-![delete user](user_delete2)
+![delete user](user_delete2.png)
 
 ## Project
 
 **Get /projects**
 
-![get projects](project_getall)
+![get projects](project_getall.png)
 
 **Post**
 
-![post project](project_post)
+![post project](project_post.png)
 
 **Get /projects/id**
 
-![get project](project_get)
+![get project](project_get.png)
 
 **Put**
 
-![put project](project_put)
+![put project](project_put.png)
 
-![put project](project_put2)
+![put project](project_put2.png)
 
 **Delete**
 
-![delete project](project_delete)
+![delete project](project_delete.png)
 
-![delete project](project_delete2)
+![delete project](project_delete2.png)
 
 ## Task
 
 **Get /tasks**
 
-![get tasks](task_getall)
+![get tasks](task_getall.png)
 
 **Post**
 
-![post task](task_post)
+![post task](task_post.png)
 
 **Get /tasks/id**
 
-![get task](task_get)
+![get task](task_get.png)
 
 **Put**
 
-![put task](task_put)
+![put task](task_put.png)
 
-![put task](task_put2)
+![put task](task_put2.png)
 
 **Delete**
 
-![delete task](task_delete)
+![delete task](task_delete.png)
 
-![delete task](task_delete2)
+![delete task](task_delete2.png)
