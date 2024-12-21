@@ -14,9 +14,9 @@
 
 **Get /users**
 
-**Get /users/id**
-
 **Post**
+
+**Get /users/id**
 
 **Put**
 
@@ -26,9 +26,9 @@
 
 **Get /projects**
 
-**Get /projects/id**
-
 **Post**
+
+**Get /projects/id**
 
 **Put**
 
@@ -38,9 +38,9 @@
 
 **Get /tasks**
 
-**Get /tasks/id**
-
 **Post**
+
+**Get /tasks/id**
 
 **Put**
 
