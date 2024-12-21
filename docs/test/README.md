@@ -14,7 +14,7 @@
 
 **Get /users**
 
-![get users](user_getall.png)
+![get users](users_getall.png)
 
 **Post**
 
